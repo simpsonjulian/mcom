@@ -22,8 +22,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   static sites had going for them - speed and robustness?
 
 
-#baseurl: "http://media.build-doctor.com" # the subpath of your site, e.g. /blog
-#url: "/mcom" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/mcom/" # the subpath of your site, e.g. /blog
+url: "http://media.build-doctor.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: build-doctor
 github_username:  simpsonjulian
 
