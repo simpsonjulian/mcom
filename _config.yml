@@ -13,16 +13,19 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@example.com
+title: Party like it's 1994
+email: simpsonjulian@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+  What if we applied modern templating to an ancient web page? We may have
+  content that might change, but what about the style?  How do we add 
+  contemporary things to an old site, without ruining the one thing that 
+  static sites had going for them - speed and robustness?
+
+
+#baseurl: "http://media.build-doctor.com" # the subpath of your site, e.g. /blog
+#url: "/mcom" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: build-doctor
+github_username:  simpsonjulian
 
 # Build settings
 markdown: kramdown
